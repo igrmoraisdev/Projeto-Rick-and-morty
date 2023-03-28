@@ -39,9 +39,9 @@ main:after{
 
 }
  .logo{
-    margin-left: 400px;
+    margin-left: 300px;
     width: 300px;
-    filter: invert(1);
+    /* filter: invert(1); */
 }
 .botoes-carrossel{
     /* background-color: red; */
